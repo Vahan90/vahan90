@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- My name is Vahan Terzibashian
+- I'm currently working as a DevOps Solution Architect [@Skyscrapers](https://github.com/skyscrapers)
+- Topics that I'm very interested in: `AWS`, `Kubernetes`, `CI/CD`, `Visibility`
+- [My Credly Account](https://www.credly.com/users/vahan-terzibashian/badges)
+- Feel free to contact me
+
 <!--
 **Vahan90/vahan90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
