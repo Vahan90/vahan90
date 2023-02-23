@@ -2,7 +2,7 @@
 
 - My name is Vahan Terzibashian
 - I'm currently working as a DevOps Solution Architect [@Skyscrapers](https://github.com/skyscrapers)
-- Topics that I'm very interested in: `AWS`, `Kubernetes`, `CI/CD`, `Visibility`
+- Topics that I'm very interested in: `AWS`, `Kubernetes`, `CI/CD`, `Observability`
 - [My Credly Account](https://www.credly.com/users/vahan-terzibashian/badges)
 - Feel free to contact me
 
